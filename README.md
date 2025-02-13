@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Damián González</h1>
+<h1 align="center">Hola!! 👋,soy Damián González</h1>
 - 🔭 Actualmente estoy trabajando en [AESA (ASTRA EVANGELISTA S.A))](https://www.aesa.com.ar/)
 
 - 🌱 Estoy aprendiendo **DevOps engineer**
